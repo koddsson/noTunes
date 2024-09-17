@@ -22,7 +22,7 @@ You can toggle the apps functionality via the menu bar icon with a simple left c
 ### Homebrew
 
 ```bash
-brew install --cask notunes
+brew install notunes
 ```
 
 ## Usage
